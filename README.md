@@ -1,123 +1,160 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=200&section=header&text=Samuel%20Pedroso&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Systems%20Builder&descAlignY=60&descSize=18" width="100%" />
+<img src="./banner.png" alt="Samuel Pedroso" width="100%" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Samuel+%F0%9F%91%8B;Computer+Engineering+Student;I+build+systems+that+remove+repetitive+work;Automation%2C+AI+and+software+that+thinks+for+you" alt="Typing SVG" />
+<a href="https://github.com/Samuelpedroso-dev">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=24&duration=3600&pause=1200&color=D4AF37&center=true&vCenter=true&width=760&height=60&lines=I+build+intelligence.;AI+systems.+Applications.+Games.;Built+with+precision.+Run+with+control." alt="I build intelligence." />
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Samuelpedroso-dev&label=Profile%20views&color=1f6feb&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/Samuelpedroso-dev?label=Followers&style=for-the-badge&logo=github&color=8957e5&labelColor=0d1117" alt="followers" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:D4AF37,100:0a0a0a&height=2" width="70%" />
+
+<br/><br/>
+
+<sub>◆&nbsp;&nbsp;INDEPENDENT AI AND SOFTWARE ARCHITECT&nbsp;&nbsp;◆&nbsp;&nbsp;ITATIBA, BRAZIL&nbsp;&nbsp;◆</sub>
 
 </div>
 
 <br/>
 
-## 👨‍💻 About Me
+## ◆ The Philosophy
 
-Hi 👋 I'm **Samuel Pedroso**, a Computer Engineering student at Universidade São Francisco (USF) in Itatiba, Brazil. I'm always curious and always learning something new.
+I do not follow trends. I build the systems behind them.
 
-My philosophy is simple. **Work so you don't have to work.** I design and build systems that eliminate manual, repetitive effort, from AI assistants and financial bots to full products people can actually use.
+My work lives where artificial intelligence meets products people use every day. I take an idea from nothing to something real, and I own every layer along the way, from the model to the interface. Every system I create has one purpose, to remove effort and multiply leverage.
 
-Outside of code, I serve in the Brazilian Army, represent students at my university, and act as a regional representative for Students for Liberty. I am also a co-founder of an environmental NGO started in high school.
-
-If you want to work on a project together, feel free to reach out 🚀
+**Work so you don't have to work.**
 
 <br/>
 
-## 🔭 What I'm Building
+## ◆ Currently Building
 
-| Project | Description |
-|:--|:--|
-| 🤖 **Pulsar** | A production conversational system with LLM and RAG, used on the shop floor for quality and process queries |
-| 💬 **Yuna** | A personal finance bot on Telegram built with Google Apps Script, Groq and Google Sheets |
-| 🕵️ **Anoniko** | An anonymous messaging app with no login, where contacts are added through QR codes |
-| 📈 **Signals** | An algorithmic trading system with a multi layer analytical architecture |
-| 🧬 **Biocomputing** | AI to simulate protein interactions and speed up the discovery of more effective drugs |
-| ⚙️ **New Language** | A low level programming language focused on performance for games and AI |
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🧠 Artificial Intelligence
+
+**Biocomputing**
+Neural networks that predict how proteins interact, built to accelerate the discovery of more effective drugs. Human benchmark complete. Now training on strict protein level splits and preparing an open source release.
+
+**Quant AI**
+Neural networks competing in a global financial prediction tournament, trained and deployed for real use.
+
+**Trackmania AI**
+A reinforcement learning agent trained to chase the fastest lap possible.
+
+</td>
+<td width="33%" valign="top">
+
+### 📱 Applications and Systems
+
+**Anoniko**
+Anonymous communication with no login. Contacts are added by QR code, so identity never has to be exposed.
+
+**A New Programming Language**
+Low level, AI native and tuned at the bit level for games and machine learning. Engineered for raw performance.
+
+**Pulsar**
+An LLM and RAG assistant running in production on a factory floor, answering quality and process questions in real time.
+
+</td>
+<td width="33%" valign="top">
+
+### 🎮 Games
+
+**Genshin Project**
+A Minecraft Bedrock world rebuilt with anime inspired terrain and landmark structures, aimed at the official Marketplace.
+
+**Slink.io**
+A fast browser arcade game headed for CrazyGames and Poki.
+
+**Roblox Competitive Clicker**
+Short ranked rounds, pets and boosts, designed around the player economy.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## 🌐 Connect With Me
+## ◆ Arsenal
 
 <div align="center">
 
-<a href="https://linkedin.com/in/samuelpedroso" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<sub>ARTIFICIAL INTELLIGENCE</sub>
+<br/>
+<img src="https://img.shields.io/badge/Python-15120b?style=for-the-badge&logo=python&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/PyTorch-15120b?style=for-the-badge&logo=pytorch&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Google%20Colab-15120b?style=for-the-badge&logo=googlecolab&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/LLMs%20and%20RAG-15120b?style=for-the-badge&logo=openai&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Reinforcement%20Learning-15120b?style=for-the-badge&logoColor=D4AF37" />
+
+<br/>
+
+<sub>SYSTEMS AND APPLICATIONS</sub>
+<br/>
+<img src="https://img.shields.io/badge/C%2B%2B-15120b?style=for-the-badge&logo=cplusplus&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Flutter-15120b?style=for-the-badge&logo=flutter&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Dart-15120b?style=for-the-badge&logo=dart&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/JavaScript-15120b?style=for-the-badge&logo=javascript&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Google%20Apps%20Script-15120b?style=for-the-badge&logo=google&logoColor=D4AF37" />
+
+<br/>
+
+<sub>GAME DEVELOPMENT</sub>
+<br/>
+<img src="https://img.shields.io/badge/Unreal%20Engine-15120b?style=for-the-badge&logo=unrealengine&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Unity-15120b?style=for-the-badge&logo=unity&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Roblox-15120b?style=for-the-badge&logo=roblox&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Minecraft%20Bedrock-15120b?style=for-the-badge&logo=minecraft&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Lua-15120b?style=for-the-badge&logo=lua&logoColor=D4AF37" />
+
+</div>
+
+<br/>
+
+## ◆ Track Record
+
+Pulsar runs in production on a real factory floor. I have trained models from scratch on cloud GPUs, shipped Telegram based financial assistants, taught others to build with AI, and I am now writing my first book.
+
+<br/>
+
+## ◆ Performance
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Samuelpedroso-dev&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=D4AF37&icon_color=D4AF37&text_color=E8DCBE&count_private=true&rank_icon=github" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelpedroso-dev&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=D4AF37&text_color=E8DCBE" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Samuelpedroso-dev&hide_border=true&background=0A0A0A&ring=D4AF37&fire=D4AF37&currStreakNum=F5E9C8&sideNums=F5E9C8&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=8A7A4A" alt="Contribution streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samuelpedroso-dev&bg_color=0a0a0a&color=D4AF37&line=D4AF37&point=F5E9C8&area=true&area_color=D4AF37&hide_border=true" alt="Contribution activity" />
+
+</div>
+
+<br/>
+
+## ◆ Get In Touch
+
+For partnerships, serious projects and ambitious ideas.
+
+<div align="center">
+
+<a href="https://linkedin.com/in/samuelpedroso">
+  <img src="https://img.shields.io/badge/LinkedIn-15120b?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn" />
 </a>
-<a href="mailto:samuelpedroso.dev@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://github.com/Samuelpedroso-dev" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="mailto:samuelpedroso.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-15120b?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="Email" />
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
-
-## 💻 Tech Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/LLMs%20and%20RAG-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Samuelpedroso-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8957e5&text_color=c9d1d9&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelpedroso-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Samuelpedroso-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=8957e5&fire=f78166&currStreakLabel=58a6ff" alt="Contribution streak" />
-
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Samuelpedroso-dev&theme=nord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies" />
-
-</div>
-
-<br/>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samuelpedroso-dev&bg_color=0d1117&color=58a6ff&line=8957e5&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:D4AF37&height=100&section=footer" width="100%" />
 
 </div>
