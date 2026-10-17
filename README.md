@@ -1,12 +1,12 @@
 <h2 align="center">Hello World, I'm Samuel 👋</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1200&color=D4AF37&center=true&vCenter=true&width=620&height=40&lines=I+build+AI+systems%2C+applications+and+games;Based+in+Brazil" alt="I build AI systems, applications and games" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1200&color=A371F7&center=true&vCenter=true&width=620&height=40&lines=I+build+AI+systems%2C+applications+and+games;Based+in+Brazil" alt="I build AI systems, applications and games" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Samuelpedroso-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=c9d1d9&ring_color=D4AF37&count_private=true&rank_icon=github&custom_title=Samuel's%20GitHub%20Stats" alt="GitHub stats" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelpedroso-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9&langs_count=6" alt="Most used languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Samuelpedroso-dev&show_icons=true&hide_border=true&bg_color=161b22&title_color=A371F7&icon_color=58A6FF&text_color=c9d1d9&ring_color=A371F7&count_private=true&rank_icon=github&border_radius=10&custom_title=Samuel's%20GitHub%20Stats" alt="GitHub stats" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelpedroso-dev&layout=compact&hide_border=true&bg_color=161b22&title_color=A371F7&text_color=c9d1d9&border_radius=10&langs_count=6" alt="Most used languages" />
 </p>
 
 <p align="center">
@@ -14,10 +14,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/samuelpedroso"><img src="https://img.shields.io/badge/in-LinkedIn-0d1117?style=for-the-badge&labelColor=D4AF37" alt="LinkedIn" /></a>
-  <a href="mailto:samuelpedroso.dev@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="Email" /></a>
-  <a href="https://slink-io.vercel.app"><img src="https://img.shields.io/badge/Play%20Slink.io-0d1117?style=for-the-badge&logo=vercel&logoColor=D4AF37" alt="Play Slink.io" /></a>
-  <img src="https://img.shields.io/github/followers/Samuelpedroso-dev?label=Followers&style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=0d1117&color=D4AF37" alt="Followers" />
+  <a href="https://linkedin.com/in/samuelpedroso"><img src="https://img.shields.io/badge/in-LinkedIn-161b22?style=for-the-badge&labelColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="mailto:samuelpedroso.dev@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <a href="https://slink-io.vercel.app"><img src="https://img.shields.io/badge/Play%20Slink.io-161b22?style=for-the-badge&logo=vercel&logoColor=white" alt="Play Slink.io" /></a>
+  <img src="https://img.shields.io/github/followers/Samuelpedroso-dev?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=161b22&color=A371F7" alt="Followers" />
 </p>
 
 <br/>
@@ -54,4 +54,8 @@ My philosophy is simple. **Work so you don't have to work.** Every system I crea
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:D4AF37&height=100&section=footer" width="100%" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samuelpedroso-dev&bg_color=0d1117&color=c9d1d9&line=A371F7&point=58A6FF&area=true&area_color=A371F7&hide_border=true&radius=10&custom_title=Contribution%20Activity" alt="Contribution activity" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:A371F7&height=90&section=footer" width="100%" />
