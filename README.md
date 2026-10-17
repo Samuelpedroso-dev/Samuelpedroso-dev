@@ -4,25 +4,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1200&color=D4AF37&center=true&vCenter=true&width=620&height=40&lines=I+build+AI+systems%2C+applications+and+games;Based+in+Brazil" alt="I build AI systems, applications and games" />
 </p>
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Samuelpedroso-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=c9d1d9&ring_color=D4AF37&count_private=true&rank_icon=github&custom_title=Samuel's%20GitHub%20Stats" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelpedroso-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9&langs_count=6" alt="Most used languages" />
-</div>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Samuelpedroso-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=c9d1d9&ring_color=D4AF37&count_private=true&rank_icon=github&custom_title=Samuel's%20GitHub%20Stats" alt="GitHub stats" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelpedroso-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9&langs_count=6" alt="Most used languages" />
+</p>
 
-<br/>
-
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=py,pytorch,cpp,flutter,dart,ts,js,unreal,unity,lua,git,vercel&perline=12&theme=dark" alt="Tech stack" />
-</div>
+</p>
 
-<br/>
-
-<div align="center">
-  <a href="https://linkedin.com/in/samuelpedroso"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/samuelpedroso"><img src="https://img.shields.io/badge/in-LinkedIn-0d1117?style=for-the-badge&labelColor=D4AF37" alt="LinkedIn" /></a>
   <a href="mailto:samuelpedroso.dev@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="Email" /></a>
   <a href="https://slink-io.vercel.app"><img src="https://img.shields.io/badge/Play%20Slink.io-0d1117?style=for-the-badge&logo=vercel&logoColor=D4AF37" alt="Play Slink.io" /></a>
   <img src="https://img.shields.io/github/followers/Samuelpedroso-dev?label=Followers&style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=0d1117&color=D4AF37" alt="Followers" />
-</div>
+</p>
 
 <br/>
 
