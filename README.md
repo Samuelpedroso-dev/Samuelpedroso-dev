@@ -55,7 +55,7 @@ My philosophy is simple. **Work so you don't have to work.** Every system I crea
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samuelpedroso-dev&bg_color=0d1117&color=c9d1d9&line=A371F7&point=58A6FF&area=true&area_color=A371F7&hide_border=true&radius=10&custom_title=Contribution%20Activity" alt="Contribution activity" />
+
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:A371F7&height=90&section=footer" width="100%" />
