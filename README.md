@@ -44,7 +44,7 @@ My philosophy is simple. **Work so you don't have to work.** Every system I crea
 🧠 **Quant AI**, financial prediction models<br/>
 🧠 **Trackmania AI**, reinforcement learning<br/>
 📱 **Anoniko**, anonymous messaging app<br/>
-⚙️ **New language**, low level and AI native<br/>
+⚙️ **[Nyx](https://github.com/Samuelpedroso-dev/nyx)**, my own language, compiles to C<br/>
 🎮 **[Slink.io](https://slink-io.vercel.app)**, browser arcade game<br/>
 🎮 **Genshin Project**, Minecraft Bedrock world
 
