@@ -1,8 +1,6 @@
 <h2 align="center">Hello World, I'm Samuel 👋</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1200&color=A371F7&center=true&vCenter=true&width=620&height=40&lines=I+build+AI+systems%2C+applications+and+games;Based+in+Brazil" alt="I build AI systems, applications and games" />
-</p>
+<p align="center"><b>I build AI systems, applications and games</b><br/>Computer Engineering student in Brazil</p>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Samuelpedroso-dev&show_icons=true&hide_border=true&bg_color=161b22&title_color=A371F7&icon_color=58A6FF&text_color=c9d1d9&ring_color=A371F7&count_private=true&rank_icon=github&border_radius=10&custom_title=Samuel's%20GitHub%20Stats" alt="GitHub stats" />
@@ -16,6 +14,8 @@
 <p align="center">
   <a href="https://linkedin.com/in/samuelpedroso"><img src="https://img.shields.io/badge/in-LinkedIn-161b22?style=for-the-badge&labelColor=0A66C2" alt="LinkedIn" /></a>
   <a href="mailto:samuelpedroso.dev@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <a href="https://samuelpedroso-dev.github.io/minit2i/"><img src="https://img.shields.io/badge/Try%20MiniT2I-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Try MiniT2I" /></a>
+  <a href="https://molgpt.vercel.app"><img src="https://img.shields.io/badge/Try%20MolGPT-161b22?style=for-the-badge&logo=vercel&logoColor=white" alt="Try MolGPT" /></a>
   <a href="https://slink-io.vercel.app"><img src="https://img.shields.io/badge/Play%20Slink.io-161b22?style=for-the-badge&logo=vercel&logoColor=white" alt="Play Slink.io" /></a>
   <img src="https://img.shields.io/github/followers/Samuelpedroso-dev?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=161b22&color=A371F7" alt="Followers" />
 </p>
@@ -40,9 +40,12 @@ My philosophy is simple. **Work so you don't have to work.** Every system I crea
 
 ### 🔭 Currently building
 
-🧠 **[Biocomputing](https://github.com/Samuelpedroso-dev/ppi-disjoint)**, protein interaction AI<br/>
+🎨 **[MiniT2I](https://github.com/Samuelpedroso-dev/minit2i)**, text to image model trained from scratch, runs in the browser<br/>
+🧪 **[MolGPT](https://github.com/Samuelpedroso-dev/molgpt)**, a small GPT that writes molecules<br/>
+🧬 **[Biocomputing](https://github.com/Samuelpedroso-dev/ppi-disjoint)**, protein interaction AI<br/>
 🧠 **Quant AI**, financial prediction models<br/>
 🧠 **Trackmania AI**, reinforcement learning<br/>
+🦖 **[Neural Dino](https://github.com/Samuelpedroso-dev/neural-dino)**, neuroevolution plays the Chrome dino game<br/>
 📱 **Anoniko**, anonymous messaging app<br/>
 ⚙️ **[Nyx](https://github.com/Samuelpedroso-dev/nyx)**, my own language, compiles to C<br/>
 🎮 **[Slink.io](https://slink-io.vercel.app)**, browser arcade game<br/>
@@ -53,9 +56,5 @@ My philosophy is simple. **Work so you don't have to work.** Every system I crea
 </table>
 
 <br/>
-
-<p align="center">
-
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:A371F7&height=90&section=footer" width="100%" />
